@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **mbeshoy036@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BeshoyMalak&label=Profile%20views&color=0e75b6&style=flat" alt="Beshoy-Malak" /> </p>
 
 <div>
 <h2 align="left">Languages and Tools:</h2>
