@@ -2,7 +2,7 @@
 <b align="center">I'm an undergraduate engineer who is passionate about learning, applying, and creating Data Science and Machine Learning projects. Since we all have started it with “print(‘Hello, World’)” I believe that anyone who has enough passion and persistence can reach a high position in a time.</b>
 
 
-- 🌱 I’m currently learning: Binding Affinity with Deep learning
+- 🌱 I’m currently learning: Generative models
 
 - 💬 Ask me about: Python, R, Statistics and Probability Sciences.
 
