@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Here is Beshoy Malak</h1>
-<b align="center">I'm an undergraduate engineer who is passionate about learning, applying, and creating Data Science and Machine Learning projects. Since we all have started it with “print(‘Hello, World’)” I believe that anyone who has enough passion and persistence can reach a high position in a time.</b>
+<b align="center">I'm an fresh graduate engineer who is passionate about learning, applying, and creating Data Science and Machine Learning projects. Since we all have started it with “print(‘Hello, World’)” I believe that anyone who has enough passion and persistence can reach a high position in a time.</b>
 
 
 - 🌱 I’m currently learning: Generative models
